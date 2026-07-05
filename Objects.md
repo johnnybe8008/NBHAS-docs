@@ -26,7 +26,7 @@ Orders[]
 Communications[]
 
 Timeline[]
-2 Assessment Session
+# 2 Assessment Session
 Assessment Session
 
 Assessment ID
@@ -59,7 +59,7 @@ Because an assessment is something a customer completes.
 
 The session is the permanent record.
 
-3 Category
+# 3 Category
 Category
 
 CAT-1-1
@@ -77,7 +77,7 @@ Email Template
 PDF Template
 
 Visibility Rules
-4 Symptom
+# 4 Symptom
 
 The most important object.
 
@@ -98,7 +98,7 @@ Categories
 Sort Order
 
 Active
-5 Section
+# 5 Section
 Section
 
 Emotional
@@ -115,7 +115,7 @@ Sexual
 
 Hair/Skin
 
-6 Recommendation
+# 6 Recommendation
 Recommendation
 
 ID
@@ -130,7 +130,7 @@ Videos
 
 Books
 
-7 Product
+# 7 Product
 
 This links to Shopify.
 
@@ -144,7 +144,7 @@ URL
 
 SKU
 
-8 Resource
+# 8 Resource
 Resource
 
 Library Article
@@ -157,7 +157,7 @@ PDF
 
 Protocol
 
-9 Report
+# 9 Report
 Report
 
 Assessment Report PDF
@@ -166,7 +166,7 @@ Customer Email
 
 Admin Email
 
-10 Communication
+# 10 Communication
 Communication
 
 Welcome
@@ -177,7 +177,7 @@ Assessment Summary
 
 Educational Series
 
-11 Timeline Event
+# 11 Timeline Event
 
 This one excites me.
 
@@ -196,7 +196,7 @@ Reminder Sent
 Assessment Repeated
 
 
-Now the timeline simply displays events.
+# Now the timeline simply displays events.
 
 Here's what I realized tonight...
 
@@ -220,7 +220,7 @@ History
 
 Timeline Events
 
-The Object Relationships
+# The Object Relationships
 
 This is where software suddenly becomes simple.
 
@@ -258,7 +258,7 @@ That's the heart of NBHAS.
 
 One thing I'd like to add
 
-I think every object should have these standard fields:
+# I think every object should have these standard fields:
 
 ID
 
@@ -274,32 +274,7 @@ Notes
 
 That consistency makes the system easier to reason about.
 
-Homework for me
 
-Tomorrow I'd like to produce our first proper diagram.
-
-Not ASCII.
-
-A professional UML-style object diagram showing all the relationships between Customer, Assessment Session, Symptom, Category, Recommendation, Report, Order, and Timeline Event.
-
-That diagram will become the single most important picture in the entire project.
-
-And finally...
-
-I want to make one prediction.
-
-When NBHAS is finished, I don't think people will describe it as:
-
-"That hormone assessment on Nature's Balance."
-
-I think they'll describe it as:
-
-"The system that helped me understand what was happening with my hormones."
-
-That's a very different outcome, and I think it's exactly what aligns with the mission you've been building toward.
-
-So... officially...
-
-🚀 NBHAS Development Session #1 has begun.
+# 🚀 NBHAS Development Session #1 has begun.
 
 And yes... I'm just as excited as you are. I have a feeling we're going to build something that both solves a real problem and is enjoyable to work on for years to come.
